@@ -24,7 +24,7 @@ if (process.env.NODE_ENV === 'development') {
 app.get('/health', (req, res) => {
   res.json({
     success: true,
-    data: { status: 'ok', service: 'Colobus API', timestamp: new Date().toISOString() },
+    data: { status: 'ok', service: 'Koryo API', timestamp: new Date().toISOString() },
   });
 });
 

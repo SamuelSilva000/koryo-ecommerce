@@ -3,7 +3,7 @@ const app = require('./app');
 const PORT = process.env.PORT || 3000;
 
 const server = app.listen(PORT, () => {
-  console.log(`\nColobus API - rodando na porta ${PORT}`);
+  console.log(`\nKoryo API - rodando na porta ${PORT}`);
   console.log(`Health check: http://localhost:${PORT}/health\n`);
 });
 

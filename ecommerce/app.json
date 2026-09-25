@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ecommerce",
-    "slug": "ecommerce",
+    "name": "Koryo",
+    "slug": "koryo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -10,7 +10,7 @@
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#1a2331"
     },
     "ios": {
       "supportsTablet": true
@@ -18,10 +18,10 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#1a2331"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.anonymous.ecommerce"
+      "package": "com.anonymous.koryo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
